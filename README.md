@@ -5,7 +5,7 @@
 Explore all public projects: [repositories](https://github.com/boykoreid?tab=repositories)
 
 ## About Me
-I'm an incoming engineering student at the University of Alberta, with a focus on learnign through hands on projects. 
+I'm an incoming engineering student at the University of Alberta, with a focus on learning through hands on projects. 
 
 My work spans programming fundamentals, design, and applied problem-solving, which are often tied to my interest in sports. I use this Github as a structured record of my development as I move deeper into my studies.
 

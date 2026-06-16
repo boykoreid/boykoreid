@@ -21,6 +21,9 @@ to keep things consistent and easy to navigate, my repositories are labeled usin
 - `hky`: **Hockey Projects**
   Analytics tools and simulations related to hockey performance
 
+- `alg`: **Alorithmic Projects**
+  Projects focused on implementing algorithms to solve computational problems.
+
 - `api`: **API Projects** _(upcoming)_
   Projects involving external data, integrations, and backend communication
 
